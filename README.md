@@ -1,4 +1,4 @@
-<img src="https://github.com/DARKSECshell/darksec/blob/main/nyancat-rainbow-cat.gif" align="left" width="100" height="100" >
+<img src="https://github.com/DARKSECshell/darksec/blob/main/nyancat-rainbow-cat.gif" align="left" width="300" height="100" >
 
 <div align="center">
 
