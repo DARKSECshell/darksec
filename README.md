@@ -7,6 +7,7 @@
 </p>
 
 <div align="center">
+![status](https://streak-stats.demolab.com?user=Darksec&theme=whatsapp-dark2)
 
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Darksec&theme=whatsapp-dark2" alt="GitHub Streak" /></a>
 
