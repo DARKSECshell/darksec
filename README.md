@@ -10,6 +10,7 @@ dP    dP `88888P' dP dP `88888P'    8888P Y8P  `88888P' dP       dP `88888P8
 </pre>
 
 <div align="center">
+![status](https://streak-stats.demolab.com?user=Detrew&theme=transparent&hide_border=true&&layout=compact)
  
 </div>
 <div align="center">
