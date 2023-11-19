@@ -16,7 +16,8 @@ dP    dP `88888P' dP dP `88888P'    8888P Y8P  `88888P' dP       dP `88888P8
 <div align="center">
  <img src="https://tryhackme-badges.s3.amazonaws.com/Userblack.png" alt="TryHackMe">
  
- [![Darksec$%]
+$ id
+uid=0(root) gid=0(root) groups=0(root)
 </div>
 
 - <code>🤓</code> I'm a dev
