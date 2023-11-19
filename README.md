@@ -1,14 +1,4 @@
-<img src="https://github.com/DARKSECshell/darksec/blob/main/nyancat-rainbow-cat.gif" width="200" height="200" align='left'>
-<prev>
-  #####       #####    ####### #     # ######  #       ####### ### #######    
- #       #       #    #        #   #  #     # #       #     #  #     #       
- #       #       #    #         # #   #     # #       #     #  #     #       
- #     #####     #    #####      #    ######  #       #     #  #     #       
- #       #       #    #         # #   #       #       #     #  #     #       
- #       #       #    #        #   #  #       #       #     #  #     #       
- #####       #####    ####### #     # #       ####### ####### ###    #       
-                                                                             
-</prev>
+<img src="https://github.com/DARKSECshell/darksec/blob/main/nyancat-rainbow-cat.gif" width="200" height="200" >
 
 <div align="center">
 
