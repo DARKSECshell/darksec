@@ -8,8 +8,6 @@
 
 <div align="center">
 
-  ![status](![status](https://streak-stats.demolab.com?user=Detrew&theme=transparent&hide_border=true&&layout=compact)
-
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Darksec&theme=whatsapp-dark2" alt="GitHub Streak" /></a>
 
 </div>
