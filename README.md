@@ -1,5 +1,14 @@
 <img src="https://github.com/DARKSECshell/darksec/blob/main/nyancat-rainbow-cat.gif" width="200" height="200" align='left'>
-
+<prev>
+  #####       #####    ####### #     # ######  #       ####### ### #######    
+ #       #       #    #        #   #  #     # #       #     #  #     #       
+ #       #       #    #         # #   #     # #       #     #  #     #       
+ #     #####     #    #####      #    ######  #       #     #  #     #       
+ #       #       #    #         # #   #       #       #     #  #     #       
+ #       #       #    #        #   #  #       #       #     #  #     #       
+ #####       #####    ####### #     # #       ####### ####### ###    #       
+                                                                             
+</prev>
 <div align="center">
 
 ![status](https://streak-stats.demolab.com?user=Detrew&theme=transparent&hide_border=true&&layout=compact)
