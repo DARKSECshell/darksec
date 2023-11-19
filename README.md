@@ -1,4 +1,4 @@
-<img src="https://github.com/DARKSECshell/darksec/blob/main/darksec.jpg" width="200" height="200" align='left'>
+<img src="https://github.com/DARKSECshell/darksec/blob/main/nyancat-rainbow-cat.gif" width="200" height="200" align='left'>
 
 <pre>
 dP                dP dP                                          dP       dP 
