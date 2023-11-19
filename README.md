@@ -8,7 +8,7 @@
 <div align="center">
  <img src="https://tryhackme-badges.s3.amazonaws.com/Userblack.png" alt="TryHackMe">
  
-uid=0(root) gid=0(root) groups=0(root)
+[+] uid=0(root) gid=0(root) groups=0(root)
 </div>
 
 - <code>🤓</code> I'm a dev
