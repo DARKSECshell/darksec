@@ -22,9 +22,8 @@
 ## **🏆 Achievements**
 
 - Rooted machines on TryHackMe and HackTheBox.
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Userblack.png" alt="TryHackMe">
- 
-[+] uid=0(root) gid=0(root) groups=0(root)
+
+ [+] uid=0(root) gid=0(root) groups=0(root)
 
 ## **📬 Contact**
 
