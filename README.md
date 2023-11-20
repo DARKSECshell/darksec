@@ -28,4 +28,9 @@
 - 📧 Email: darksec@gmail.com
 - 🕸️ Discord: darksec_
 
+<h3>Skills</h3>
+
+![Skills](https://skillicons.dev/icons?i=bash,python,linux,html)
+
+
 > "Our code is our weapon. Hack the order, free the information!" 🌐
