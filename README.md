@@ -1,29 +1,31 @@
 <img src="https://github.com/DARKSECshell/darksec/blob/main/nyancat-rainbow-cat.gif" align="left" width="200" height="100" >
 
-<h1 align="center"><b>Hi , I'm Darksec </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=i'm+the+Darksec..&hearts;++;I-Love-Ctf+;Computer+Science+Student;CTF+Player;Active+Keep/Learn;Love+learn+..<3"></a>
-</p>
+# \[💀\] DarkSec - The Untamed Hacker
 
-<div align="center">
+## **Who Am I?**
 
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Darksec&theme=whatsapp-dark2" alt="GitHub Streak" /></a>
+👤 **DarkSec: Dev, Hacker, Ctf Player.**
 
-</div>
-<div align="center">
+## **💻 Skills**
 
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Userblack.png" alt="TryHackMe">
- 
-[+] uid=0(root) gid=0(root) groups=0(root)
-</div>
+- **Languages:** Bash, Python, HTML
+- **Operating Systems:** Linux
+- **Web Development:** HTML
+- **Other:** Reverse Engineering
 
-- <code>🤓</code> I'm a dev
-- <code>🧠</code> studying Reverse Engineering I love CTF
-- <code>🥇</code> Study on  Tryhackme And HackTheBox
-- My Discord: darksec_
+## **🚀 Projects & Achievements**
 
+- **[Project X:](https://github.com/DARKSECshell/custom_kali)** - Custom your boot loader and your wallpaper grub.
+  
+- **[Crazy Script:](https://github.com/DARKSECshell/shell_persistent)** - Backdoor for linux.
 
-<h3>Skills</h3>
+## **🏆 Achievements**
 
-![Skills](https://skillicons.dev/icons?i=bash,python,linux,html)
+- Rooted machines on TryHackMe and HackTheBox.
+  
+## **📬 Contact**
+
+- 📧 Email: darksec@gmail.com
+- 🕸️ Discord: darksec_
+
+> "Our code is our weapon. Hack the order, free the information!" 🌐
