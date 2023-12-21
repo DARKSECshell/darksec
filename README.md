@@ -1,6 +1,6 @@
 <img src="https://github.com/DARKSECshell/darksec/blob/main/nyancat-rainbow-cat.gif" align="left" width="200" height="100" >
 
-# DarkSec - The Untamed Hacker
+# DarkSec 
 
 ##                                 **Who Am I?**
 
