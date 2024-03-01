@@ -2,7 +2,7 @@
 
 # DarkSec \0/
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10000&color=46FF00&random=false&width=435&lines=You+Are+lammer+?+NOT+You+Are+1337)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10000&color=46FF00&random=false&width=435&lines=You+Are+lammer+?+NOT+You+Are+1337(https://git.io/typing-svg)
 
 👤 **DarkSec: Dev, Ctf Player.**
 
