@@ -1,5 +1,8 @@
+
 <img src="https://github.com/DARKSECshell/darksec/blob/main/nyancat-rainbow-cat.gif" align="left" width="200" height="100" >
 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70404&random=false&width=435&lines=opa%2C+fala+ai)](https://git.io/typing-svg)
 
 
 
