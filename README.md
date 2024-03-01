@@ -18,9 +18,9 @@
 
 ## **🚀 Projects & Achievements**
 
-- **[Project X:](https://github.com/DARKSECshell/custom_kali)** - Custom your boot loader and your wallpaper grub.
+- **[CUSTOM KALI:](https://github.com/DARKSECshell/custom_kali)** - Custom your boot loader and your wallpaper grub.
   
-- **[Crazy Script:](https://github.com/DARKSECshell/shell_persistent)** - Backdoor for linux.
+- **[Backdoor for linux:](https://github.com/DARKSECshell/shell_persistent)** - Backdoor for linux.
 
 ## **🏆 Achievements**
 
