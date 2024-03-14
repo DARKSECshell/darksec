@@ -11,9 +11,9 @@
 
 ## **💻 Skills**
 
-- **Languages:** Bash, Python, HTML
+- **Languages:** Bash, Python, C
 - **Operating Systems:** Linux
-- **Web Development:** HTML
+- **Web Development:** i'm not dev :(
 - **Other:** Reverse Engineering
 
 ## **🚀 Projects & Achievements**
@@ -30,7 +30,7 @@
 
 ## **📬 Contact**
 
-- 📧 Email: darksec@gmail.com
+- 📧 Email: qnexfrp1337@tutamail.com
 - 🕸️ Discord: darksec_
 
 <h3>Skills</h3>
