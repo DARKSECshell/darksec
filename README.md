@@ -18,7 +18,7 @@
 
 ## **🚀 Projects & Achievements**
 
-- **[CUSTOM KALI:](https://github.com/DARKSECshell/custom_kali)** - Custom your boot loader and your wallpaper grub.
+- **[Rice:](https://github.com/DARKSECshell/rice_arch)** - My rice for arch linux
   
 - **[Backdoor for linux:](https://github.com/DARKSECshell/shell_persistent)** - Backdoor for linux.
 
