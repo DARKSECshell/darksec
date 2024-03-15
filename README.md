@@ -25,7 +25,8 @@
 ## **🏆 Achievements**
 
 - Rooted machines on TryHackMe and HackTheBox.
-![default_tryhackme (1)](https://github.com/DARKSECshell/DARKSECshell/assets/121623691/73abe7b7-be44-4ddd-8de6-6ae26c56ef67)
+
+![Tryhackme Profile)](https://github.com/DARKSECshell/DARKSECshell/assets/121623691/73abe7b7-be44-4ddd-8de6-6ae26c56ef67)
 
  [+] uid=0(root) gid=0(root) groups=0(root)
 
