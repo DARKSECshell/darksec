@@ -1,3 +1,4 @@
+![c_animation_3d_wave](https://github.com/DARKSECshell/DARKSECshell/assets/121623691/1539947b-db47-41dc-8a37-ff91a7bb7353)
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=ffffff&random=false&width=435&lines=echo+o+>+/proc/sysrq-trigger)](https://git.io/typing-svg)
