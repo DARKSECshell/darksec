@@ -1,7 +1,7 @@
 
-
+```
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=ffffff&random=false&width=435&lines=echo+o+>+/proc/sysrq-trigger)](https://git.io/typing-svg)
-
+```
 
 
 👤 **DarkSec: Dev, Ctf Player.**
