@@ -1,6 +1,6 @@
 ![c_animation_3d_wave](https://github.com/DARKSECshell/DARKSECshell/assets/121623691/1539947b-db47-41dc-8a37-ff91a7bb7353)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Libre+Barcode+128+Text&color=9D9191&random=false&width=435&lines=echo+o+%3E+%2Fproc%2Fsysrq-trigger)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Libre+Barcode+128+Text&size=40&pause=100&color=A6A6A6&random=false&width=435&lines=echo+o+%3E+%2Fproc%2Fsysrq-trigger)](https://git.io/typing-svg)
 
 👤 **DarkSec: Dev, Ctf Player.**
 
