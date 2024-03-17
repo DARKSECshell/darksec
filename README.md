@@ -35,6 +35,6 @@
 <h3>Skills</h3>
 
 ![Skills](https://skillicons.dev/icons?i=bash,c,linux)
-
+![Skiils](https://tryhackme.com/img/badges/king.svg)
 
 > "Our code is our weapon. Hack the order, free the information!" 🌐
