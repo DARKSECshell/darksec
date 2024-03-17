@@ -34,7 +34,7 @@
 
 <h3>Skills</h3>
 
-![Skills](https://skillicons.dev/icons?i=bash,python,linux,html)
+![Skills](https://skillicons.dev/icons?i=bash,c,linux)
 
 
 > "Our code is our weapon. Hack the order, free the information!" 🌐
