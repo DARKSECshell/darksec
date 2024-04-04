@@ -22,7 +22,7 @@
 
 - Rooted machines on TryHackMe and HackTheBox.
 
-(![image](https://tryhackme-badges.s3.amazonaws.com/Darksec.png)
+[image](https://tryhackme-badges.s3.amazonaws.com/Darksec.png)
 
  [+] uid=0(root) gid=0(root) groups=0(root)
 
