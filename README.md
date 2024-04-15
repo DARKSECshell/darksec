@@ -18,7 +18,7 @@
   
 - **[Backdoor for linux:](https://github.com/DARKSECshell/shell_persistent)** - Backdoor for linux.
 
-- **[BYPASS-RKHUNTER:](https://github.com/DARKSECshell/BYPASS-RKHUNTER)** - Bypass Rkhunter.
+- **[BYPASS-RKHUNTER:](https://github.com/DARKSECshell/BYPASS-RKHUNTER)** - Bypass Rkhunter for rootkit diamorphine and others.
 
 ## **🏆 Achievements**
 
