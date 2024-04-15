@@ -8,7 +8,7 @@
 ## **💻 Skills**
 
 - **Languages:** Bash, C
-- **Operating Systems:** Linux Windows
+- **Operating Systems:** Linux, Windows
 - **Web Development:** i'm not dev :(
 - **Other:** Reverse Engineering
 
