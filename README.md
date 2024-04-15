@@ -18,6 +18,8 @@
   
 - **[Backdoor for linux:](https://github.com/DARKSECshell/shell_persistent)** - Backdoor for linux.
 
+- **[BYPASS-RKHUNTER:](https://github.com/DARKSECshell/BYPASS-RKHUNTER)** - Bypass Rkhunter.
+
 ## **🏆 Achievements**
 
 - Rooted machines on TryHackMe and HackTheBox.
