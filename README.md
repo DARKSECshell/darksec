@@ -19,7 +19,7 @@
 - **[Backdoor for linux:](https://github.com/DARKSECshell/shell_persistent)** - Backdoor for linux.
 
 - **[BYPASS-RKHUNTER:](https://github.com/DARKSECshell/BYPASS-RKHUNTER)** - Bypass Rkhunter for rootkit diamorphine and others.
-
+- **[ROOTKIT-USERLAND:](https://github.com/DARKSECshell/ROOTKIT-USERLAND)** - Rootkit Userland project in progress...
 ## **🏆 Achievements**
 
 - Rooted machines on TryHackMe and HackTheBox.
