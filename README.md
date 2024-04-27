@@ -24,7 +24,7 @@
 
 - Rooted machines on TryHackMe and HackTheBox.
 
-![Darksec](https://github.com/DARKSECshell/DARKSECshell/assets/121623691/e978f632-53a6-4a1e-9556-e396d987c812)
+![Darksec](https://github.com/DARKSECshell/DARKSECshell/assets/121623691/cea455ae-23ba-403b-ac97-0de7371037b6)
 
 
  [+] uid=0(root) gid=0(root) groups=0(root)
