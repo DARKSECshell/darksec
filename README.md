@@ -9,7 +9,7 @@
 
 - **Languages:** Bash, C
 - **Operating Systems:** Linux, Windows
-- **Web Development:** i'm not dev :(
+- **Web Development:** Html, Css
 - **Other:** Reverse Engineering
 
 ## **🚀 Projects & Achievements**
