@@ -20,7 +20,7 @@
 
 - **[BYPASS-RKHUNTER:](https://github.com/DARKSECshell/BYPASS-RKHUNTER)** - Bypass Rkhunter for rootkit diamorphine.
 - **[ROOTKIT-USERLAND:](https://github.com/DARKSECshell/ROOTKIT-USERLAND)** - Rootkit Userland project in progress...
-- **[ROOTKIT-KERNEL:](https://github.com/DARKSECshell/ROOTKIT-KERNEL-LAND)** - Rootkit kernel land project in progress...
+
 
 ## **🏆 Achievements**
 
