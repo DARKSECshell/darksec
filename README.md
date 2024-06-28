@@ -7,7 +7,7 @@
 
 ## **💻 Skills**
 
-- **Languages:** Bash, C
+- **Languages:** Bash, C, python
 - **Operating Systems:** Linux, Windows
 - **Web Development:** Html, Css
 - **Other:** Reverse Engineering
