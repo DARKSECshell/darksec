@@ -33,7 +33,7 @@
 
 ## **📬 Contact**
 
-- 📧 Email: qnexfrp1337@tutamail.com
+- 📧 Email: darksec@sinapse.lol
 - 🕸️ Discord: darksec_
 
 <h3>Skills</h3>
