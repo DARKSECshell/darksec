@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Libre+Barcode+39+Text&pause=100&color=A6A6A6&random=false&width=435&lines=gcc+-shared+-fPIC+-o+libc.so+RK.c)](https://git.io/typing-svg)
 
-👤 **DarkSec: Dev, Ctf Player.**
+👤 **NullByt3: Dev, Ctf Player.**
 
 
 ## **💻 Skills**
