@@ -10,7 +10,7 @@
 - **Languages:** Bash, C, python,Golang
 - **Operating Systems:** Linux, Windows
 - **Web Development:** Html, Css
-- **Other:** Reverse Engineering
+- **Other:** Reverse Engineering, ASM
 
 ## **🚀 Projects & Achievements**
 
