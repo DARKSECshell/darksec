@@ -26,7 +26,7 @@
 
 - Rooted machines on TryHackMe and HackTheBox.
 
-![N4llByt3](https://github.com/user-attachments/assets/b2d98969-b97d-48a8-8c5c-ddd9c838277d)
+![N4llByt3](https://github.com/user-attachments/assets/86971b73-bc5e-46ac-9919-1385196f8e7f)
 
 
  [+] uid=0(root) gid=0(root) groups=0(root)
