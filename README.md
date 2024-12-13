@@ -1,8 +1,27 @@
 ![image](https://github.com/user-attachments/assets/09fcdb48-7874-4e7f-ae54-68773f8a045c)
 
-------------------------
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=3&color=29FF0E&width=435&lines=insmod+Nullbyte.ko+%7C+lsmod+%7C+head+-n+1)](https://git.io/typing-svg)
--------------------------
+name: auto-update
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron:  0 */4 * * *
+
+jobs:
+  build:
+    name: auto update
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@master
+    - uses: liamg/github-profile-terminal-action@main
+      with:
+        feed_url: https://www.liam-galvin.co.uk/feed.xml
+        twitter_username: liam_galvin
+        theme: dark
+        token: ${{ secrets. GITHUB_TOKEN }}
 
 ## **💻 Skills**
 
