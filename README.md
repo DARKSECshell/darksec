@@ -1,4 +1,4 @@
-![os](https://github.com/user-attachments/assets/66515d8e-23fa-4560-88d3-0f6cf5021acd)
+![os](https://github.com/user-attachments/assets/44e7b0cb-18fb-4c9d-9f6c-ffeb7c719c42)
 
 
 ## **💻 Skills**
