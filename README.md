@@ -1,7 +1,4 @@
-![image](https://github.com/user-attachments/assets/09fcdb48-7874-4e7f-ae54-68773f8a045c)
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=3&color=29FF0E&width=435&lines=insmod+Nullbyte.ko+%7C+lsmod+%7C+head+-n+1)](https://git.io/typing-svg)
+![os](https://github.com/user-attachments/assets/66515d8e-23fa-4560-88d3-0f6cf5021acd)
 
 
 ## **💻 Skills**
