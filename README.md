@@ -1,29 +1,4 @@
-                                                      _...---.._
-                                                     _.'`       -_  `.
-                                                 .-'`                  \
-                                              .-`                     q
-                                           _-`                       __  \
-                                       .-'`                  . ' .   \ `;/
-                                   _.-`                    /       `._`/
-                           _...--'`                        \_
-                        .'`                         -         `'--.._
-                     . `                           \                  `-.
-                    .                `              `-..__. ... - -.._`-
-                   '.                `  '''---- -''`                  `-.`.
-                 .` -                '`.  `-.
-              .-` .` '             .`'.__ ;
-          _.-` .-`   '            .
-      _.-`  .-`       '         .`
-(`''-'' _.-`          '        .'
- `'---''            .`       .`
-                 .'     . '`
-                .    .-`
-              .`   ,`
-             '   .'
-           '   .`
-          '  .`
-          `  '.    -Y. Huang-
-          `.___;
+![image](https://github.com/user-attachments/assets/8825c878-bef3-4e6b-b9a3-68435cef05d8)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Libre+Barcode+39+Text&pause=100&color=A6A6A6&random=false&width=435&lines=gcc+-shared+-fPIC+-o+libc.so+RK.c)](https://git.io/typing-svg)
 
