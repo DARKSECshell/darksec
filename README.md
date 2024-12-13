@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/09fcdb48-7874-4e7f-ae54-68773f8a045c)
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=101149&width=435&lines=echo+'0'+%3E++%2Fproc%2Fsysrq-trigger)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=3&color=29FF0E&width=435&lines=insmod+Nullbyte.ko+%7C+lsmod+%7C+head+-n+1)](https://git.io/typing-svg)
 
 👤 **NullByt3: Dev, Ctf Player.**
 
