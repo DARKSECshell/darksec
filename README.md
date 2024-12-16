@@ -12,7 +12,7 @@
 
 - **[Rice:](https://github.com/DARKSECshell/rice_arch)** - My rice for arch linux
   
-- **[Backdoor for linux:](https://github.com/DARKSECshell/shell_persistent)** - Backdoor for linux.
+- **[Backdoor Linux/Windows :](https://github.com/NullByte-7w7/H1D3_C4T)** - Backdoor For Linux/Windows.
 
 - **[BYPASS-RKHUNTER:](https://github.com/DARKSECshell/BYPASS-RKHUNTER)** - Bypass Rkhunter for rootkit diamorphine.
 - **[ROOTKIT-USERLAND:](https://github.com/DARKSECshell/ROOTKIT-USERLAND)** - Rootkit Userland project in progress...
