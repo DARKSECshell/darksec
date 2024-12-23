@@ -6,7 +6,7 @@
 - **Languages:** Bash, C, python,Golang
 - **Operating Systems:** Linux, Windows
 - **Web Development:** Html, Css
-- **Other:** Reverse Engineering, ASM
+- **Other:** Reverse Engineering, ASM, developer LKM
 
 ## **🚀 Projects & Achievements**
 
