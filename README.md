@@ -29,8 +29,7 @@
 
 ## **📬 Contact**
 
-- 📧 Email: darksec@sinapse.lol
-- 🕸️ Discord: darksec_
+-  🕸️ Discord: darksec_
 
 <h3>Skills</h3>
 
